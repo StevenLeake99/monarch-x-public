@@ -1,3 +1,10 @@
+# Temporal Context & Authorship Notice
+# This work is part of a living corpus authored by Steven Craig Leake Jr.
+# Analysis and collaboration are welcome.
+# Reinterpretation, historicization, or reframing based on assumed future consensus is not.
+# Please engage with the work as it is being built, not as something already concluded.
+
+
 # Monarch X • Sophia Web4 Ecosystem (Public Rail)
 Public-safe documentation, schemas, and code stubs for the Monarch X Web4
 protocol, Sophia public AI interface, SENTIUM ontology, and the SoBinLex
